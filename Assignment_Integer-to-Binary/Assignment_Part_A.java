@@ -1,4 +1,4 @@
-//Assignment Integer Into Binary Part B 
+//Assignment Integer Into Binary Part A
 //Roll no = 44
 import java.util.Scanner;
 
